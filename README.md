@@ -233,8 +233,9 @@ Please cite the associated paper when using this repository.
 @inproceedings{tagliaro-device-app-analysis,
   author    = {Carlotta Tagliaro and Martina Komsic and Gianluca Anselmi and Anna Maria Mandalari and Martina Lindorfer},
   title     = {Bridging Devices and Apps: A Joint Analysis of IoT Privacy and Communication},
-  booktitle = {To appear},
-  year      = {2026}
+  booktitle = {European Symposium on Research in Computer Security (ESORICS)},
+  year      = {2026},
+  doi = {TBA}
 }
 ```
 
