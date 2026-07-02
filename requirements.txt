@@ -1,0 +1,11 @@
+IPy
+ipinfo
+matplotlib
+mitmproxy
+nest-asyncio
+netaddr
+numpy
+pyshark
+requests
+shodan
+tldextract

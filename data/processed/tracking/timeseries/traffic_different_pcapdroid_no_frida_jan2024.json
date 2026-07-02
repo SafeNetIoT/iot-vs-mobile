@@ -1,0 +1,380 @@
+{
+  "Google_Nest_Wifi_Router": {},
+  "Honeywell_T6_Thermostat": {
+    "analytics.localytics.com": {
+      "15": 350,
+      "153": 135,
+      "154": 135,
+      "158": 104,
+      "159": 104,
+      "30": 442,
+      "37": 120,
+      "38": 18476,
+      "393": 270,
+      "5": 18739,
+      "59": 2002,
+      "60": 4854,
+      "70": 1697,
+      "71": 2742,
+      "93": 13531
+    },
+    "api.amplitude.com": {
+      "0": 9883,
+      "1": 52,
+      "100": 2160,
+      "221": 552,
+      "29": 4426,
+      "30": 545,
+      "37": 1869,
+      "4": 1805,
+      "67": 1619,
+      "68": 545,
+      "70": 1870
+    },
+    "in.appcenter.ms": {
+      "1": 60,
+      "10": 421,
+      "2": 60,
+      "38": 239,
+      "39": 104,
+      "4": 457,
+      "6": 7986,
+      "7": 362
+    },
+    "manifest.localytics.com": {
+      "10": 442,
+      "153": 135,
+      "158": 104,
+      "37": 60,
+      "38": 1817,
+      "393": 175,
+      "5": 7528,
+      "59": 651,
+      "60": 623,
+      "93": 1877
+    },
+    "profile.localytics.com": {
+      "14": 6500,
+      "15": 1326,
+      "38": 442
+    },
+    "regionconfig.amplitude.com": {
+      "0": 872,
+      "281": 239,
+      "37": 2142,
+      "4": 872,
+      "5": 239,
+      "59": 872,
+      "60": 291,
+      "70": 2090,
+      "71": 52,
+      "92": 261,
+      "93": 611
+    }
+  },
+  "OKP_smart_vacuum": {
+    "errnewlog.umeng.com": {
+      "3": 709,
+      "4": 6047
+    },
+    "ulogs.umeng.com": {
+      "3": 709,
+      "4": 6719
+    }
+  },
+  "Withings_Body_Pressure_Monitor": {
+    "prod.rudderstack.withings.net": {
+      "129": 236,
+      "309": 144,
+      "8": 13755,
+      "9": 1361
+    }
+  },
+  "alexa_swan_kettle": {
+    "device-metrics-us-2.amazon.com": {
+      "10": 281763,
+      "11": 280702,
+      "13": 104,
+      "2": 741,
+      "22": 135,
+      "24": 104,
+      "3": 285236,
+      "311": 135,
+      "312": 40,
+      "4": 281533,
+      "5": 281333,
+      "6": 282469,
+      "7": 350443,
+      "8": 281388,
+      "9": 261234
+    },
+    "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com": {
+      "0": 42709,
+      "1": 8450,
+      "2": 741,
+      "298": 135,
+      "3": 60407,
+      "301": 135,
+      "303": 135,
+      "57": 187,
+      "58": 303,
+      "61": 362,
+      "63": 187
+    }
+  },
+  "aqara_hubM2": {
+    "graph.facebook.com": {
+      "298": 388
+    }
+  },
+  "arlo_camera_pro4": {
+    "4422.content.swrve.com": {
+      "0": 9298,
+      "60": 9433
+    }
+  },
+  "blink_mini_camera": {
+    "sdk.iad-05.braze.com": {
+      "58": 1929
+    }
+  },
+  "boifun_baby": {},
+  "com.google.android.apps.chromecast.app_on_off_nest_cam": {},
+  "cosori_air_fryer": {},
+  "echodot5": {},
+  "ecovacs_vacuum": {
+    "codepush.appcenter.ms": {
+      "0": 60,
+      "1": 8837,
+      "123": 40
+    }
+  },
+  "eufy_robovac": {},
+  "furbo_dog_camera": {
+    "api.getblueshift.com": {
+      "0": 4907,
+      "1": 7782,
+      "10": 7602,
+      "11": 5603,
+      "12": 7435,
+      "13": 7602,
+      "14": 5655,
+      "15": 2632,
+      "2": 5603,
+      "24": 2632,
+      "264": 239,
+      "3": 7435,
+      "324": 175,
+      "4": 7602,
+      "5": 5298,
+      "6": 7602,
+      "7": 7740,
+      "8": 5298,
+      "9": 7740
+    },
+    "api.mixpanel.com": {
+      "58": 67047
+    }
+  },
+  "geree_doorbell": {},
+  "google_nest_doorbell": {},
+  "govee_strip_light": {
+    "data.flurry.com": {
+      "299": 128,
+      "90": 296
+    }
+  },
+  "iROBOT_roomba": {
+    "api.mixpanel.com": {
+      "124": 3834,
+      "195": 3747,
+      "265": 1680,
+      "266": 1941,
+      "336": 2293,
+      "337": 1432,
+      "53": 73869,
+      "54": 1941,
+      "58": 1328
+    },
+    "data.pendo.io": {
+      "1": 21181,
+      "2": 1337,
+      "29": 14918,
+      "329": 284
+    }
+  },
+  "lepro_light": {},
+  "meross_garage_door": {
+    "app-measurement.com": {
+      "0": 15119,
+      "240": 281
+    },
+    "currency.conversionbear.com": {
+      "0": 5534
+    },
+    "region1.app-measurement.com": {
+      "0": 6249,
+      "1": 3146,
+      "241": 281
+    },
+    "stats.g.doubleclick.net": {
+      "0": 9685,
+      "240": 281
+    },
+    "www.googletagmanager.com": {
+      "0": 114631,
+      "240": 281
+    }
+  },
+  "nest_cam": {},
+  "netatmo_weather_station": {},
+  "petsafe_feeder": {},
+  "ring_chime_pro": {
+    "device-metrics-us-2.amazon.com": {
+      "344": 60,
+      "345": 16984,
+      "346": 16293,
+      "347": 8734,
+      "348": 104,
+      "357": 135,
+      "359": 104
+    },
+    "msh.amazon.com": {
+      "74": 40
+    }
+  },
+  "ring_doorbell": {},
+  "ring_spotlight_camera": {},
+  "sensibo_sky_sensor": {},
+  "switchbot_hub_mini_1": {
+    "analytics.tiktok.com": {
+      "127": 400,
+      "4": 10737,
+      "6": 1501,
+      "7": 5249
+    },
+    "cdn.uppromote.com": {
+      "244": 299,
+      "4": 11190
+    },
+    "googleads.g.doubleclick.net": {
+      "246": 281,
+      "4": 12891,
+      "6": 12045
+    },
+    "js.smile.io": {
+      "1": 60,
+      "2": 9685,
+      "242": 299
+    },
+    "platform.smile.io": {
+      "246": 415,
+      "6": 9312
+    },
+    "region1.app-measurement.com": {
+      "245": 281,
+      "5": 10279
+    },
+    "stack-discounts.merchantyard.com": {
+      "5": 9409,
+      "70": 232
+    },
+    "stats.g.doubleclick.net": {
+      "244": 281,
+      "4": 9151
+    },
+    "switchbot.zendesk.com": {
+      "297": 355
+    },
+    "trackifyx.redretarget.com": {
+      "2": 15721
+    },
+    "voilaapps.co": {
+      "2": 100
+    },
+    "www.googletagmanager.com": {
+      "244": 281,
+      "4": 113206
+    }
+  },
+  "switchbot_hub_mini_2": {
+    "analytics.tiktok.com": {
+      "10": 2506,
+      "11": 4484,
+      "131": 400,
+      "8": 7979,
+      "9": 3652
+    },
+    "cdn.uppromote.com": {
+      "6": 11673
+    },
+    "googleads.g.doubleclick.net": {
+      "249": 281,
+      "8": 11991,
+      "9": 14267
+    },
+    "js.smile.io": {
+      "4": 9147
+    },
+    "platform.smile.io": {
+      "6": 10293
+    },
+    "region1.google-analytics.com": {
+      "249": 281,
+      "9": 9202
+    },
+    "stack-discounts.merchantyard.com": {
+      "6": 9409,
+      "71": 232
+    },
+    "stats.g.doubleclick.net": {
+      "6": 9743
+    },
+    "switchbot.zendesk.com": {
+      "298": 239
+    },
+    "voilaapps.co": {
+      "6": 100
+    },
+    "www.google-analytics.com": {
+      "246": 281,
+      "6": 10528
+    },
+    "www.googletagmanager.com": {
+      "249": 281,
+      "8": 8303,
+      "9": 106027
+    }
+  },
+  "tapo_plug110_38": {},
+  "vtech_baby_camera": {},
+  "wiz_smart_bulb": {
+    "graph.facebook.com": {
+      "297": 584
+    }
+  },
+  "wyze_cam_pan_v2": {
+    "dxp.kaxsdc.com": {
+      "0": 425,
+      "15": 208,
+      "24": 428,
+      "30": 104,
+      "300": 128,
+      "45": 104,
+      "59": 128,
+      "60": 104
+    },
+    "sdk.iad-03.braze.com": {
+      "0": 38114,
+      "358": 454,
+      "58": 1794
+    },
+    "wyze.dataplane.rudderstack.com": {
+      "10": 7985,
+      "23": 9977,
+      "24": 338,
+      "58": 672
+    }
+  },
+  "yeelight_bulb": {}
+}

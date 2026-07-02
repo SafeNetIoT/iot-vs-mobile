@@ -1,0 +1,119 @@
+{
+    "com.sensibo.app_sensibo": "sensibo_sky_sensor",
+    "com.immediasemi.android.blink_blink_mini_camera": "blink_mini_camera",
+    "com.netatmo.netatmo_netatmo": "netatmo_weather_station",
+    "com.arlo.app_arlo": "arlo_camera_pro4",
+    "com.eco.global.app_ecovacs": "ecovacs_vacuum",
+    "com.theswitchbot.switchbot_switchbot_65": "switchbot_hub_mini_1",
+    "com.amazon.dee.app_amazon_kettle": "alexa_swan_kettle",
+    "com.honeywell.android.lyric_honeywell": "Honeywell_T6_Thermostat",
+    "com.ringapp_front_ring_camera": "ring_spotlight_camera",
+    "net.petsafe.platform_petsafe": "petsafe_feeder",
+    "com.cams.vtech.mvb.pro_vtech": "vtech_baby_camera",
+    "com.irobot.home_roomba": "iROBOT_roomba",
+    "com.amazon.dee.app_echodot4": "echodot4",
+    "com.cloudedge.smarteye_baifun": "boifun_baby",
+    "com.tomofun.furbo_furbo": "furbo_dog_camera",
+    "com.eufylife.smarthome_eufy-cleaner":"eufy_robovac",
+    "com.tplink.iot_tapo_smartplug": "tapo_plug110_38",
+    "com.lampux.ledbrighter_lepro": "lepro_light",
+    "com.hualai_wyze-cam": "wyze_cam_pan_v2",
+    "com.wizconnected.wiz2_wiz": "wiz_smart_bulb",
+    "com.theswitchbot.switchbot_switchbot_dd": "switchbot_hub_mini_2",
+    "com.lavazza.lavazzaconsumer.GB_lavazza": "coffee_maker_lavazza",
+    "com.govee.home_govee_light": "govee_strip_light",
+    "com.google.android.apps.chromecast.app_google_nest_doorbell": "google_nest_doorbell",
+    "com.yeelight.cherry_yeelight": "yeelight_bulb",
+    "com.google.android.apps.chromecast.app_nest_cam": "nest_cam",
+    "com.lumiunited.aqarahome.play_aquara_hubM2": "aqara_hubM2",
+    "com.meross.meross_meross": "meross_garage_door",
+    "com.joystek.cloudot_geree_cam": "geree_doorbell",
+    "com.withings.wiscale2_withings_pressure": "Withings_Body_Pressure_Monitor",
+    "com.yunshi.okp_okp": "OKP_smart_vacuum",
+    "com.ringapp_ring_chime_pro": "ring_chime_pro",
+    "com.amazon.dee.app_echodot5": "echodot5",
+    "com.mcu.reolink_reolink": "reolink_doorbell",
+    "me.nanoleaf.nanoleaf_nanoleaf_triangles": "nanoleaf_triangles",
+    "com.ringapp_ring_chime_pro_v2": "ring_chime_pro_v2",
+    "com.eufylife.smarthome_eufy_cleaner": "eufy_robovac",
+    "com.mcu.reolink_reolink_doorbell": "reolink_doorbell",
+    "com.govee.home_govee": "govee_strip_light",
+    "com.theswitchbot.switchbot_tapo_plug110_38": "tapo_plug110_38",
+    "com.hualai_wyze_cam": "wyze_cam_pan_v2",
+    "com.sonos.acr2_sonos_speaker_1": "sonos_speaker",
+    "com.theswitchbot.switchbot_switchbot_hub_mini_1": "switchbot_hub_mini_1",
+    "com.bose.bosemusic_bose_speaker_v2": "bose_speaker_v2",
+    "com.google.android.videos_chromecast": "chromecast",
+    "com.lumiunited.aqarahome.play_aqara_hubM2": "aqara_hubM2",
+    "com.google.android.apps.chromecast.app_google_nest_hub": "google_nest_hub",
+    "com.google.android.apps.chromecast.app_nest_wifi_v2": "Google_Nest_Wifi_Router",
+    "com.bose.bosemusic_bose_speaker": "bose_speaker",
+
+    "com.mcu.reolink_screenshot": "reolink_doorbell",
+    "me.nanoleaf.nanoleaf_on_off": "nanoleaf_triangles",
+    "com.irobot.home_clean": "iROBOT_roomba",
+    "com.wizconnected.wiz2_on_off": "wiz_smart_bulb",
+    "com.yunshi.okp_clean": "OKP_smart_vacuum",
+    "com.meross.meross_open_close": "meross_garage_door",
+    "com.yeelight.cherry_on_off": "yeelight_bulb",
+    "com.immediasemi.android.blink_hold_to_talk": "blink_mini_camera",
+    "com.sonos.acr2_play_music": "sonos_speaker",
+    "com.lampux.ledbrighter_on_off": "lepro_light",
+    "com.tomofun.furbo_screenshot": "furbo_dog_camera",
+    "net.petsafe.platform_give_food": "petsafe_feeder",
+    "com.amazon.dee.app_on_off": "alexa_swan_kettle",
+    "com.arlo.app_start_stop_live": "arlo_camera_pro4",
+    "com.cloudedge.smarteye_screenshot": "boifun_baby",
+    "com.google.android.videos_home": "chromecast",
+    "com.etekcity.vesyncplatform_start_stop": "cosori_airfrier",
+    "com.eco.global.app_clean": "ecovacs_vacuum",
+    "com.eufylife.smarthome_clean": "eufy_robovac",
+    "com.ringapp_start_stop_live": "ring_spotlight_camera",
+    "com.joystek.cloudot_screenshot": "geree_doorbell",
+    "com.google.android.apps.chromecast.app_on_off_doorbell": "google_nest_doorbell",
+    "com.google.android.apps.chromecast.app_change_bass": "google_nest_hub",
+    "com.govee.home_on_off": "govee_strip_light",
+    "com.lumiunited.aqarahome.play_alert_system": "aqara_hubM2",
+    "com.lavazza.lavazzaconsumer.GB_make_coffee": "coffee_maker_lavazza",
+    "com.google.android.apps.chromecast.app_on_off_camera": "nest_cam",
+    "com.google.android.apps.chromecast.app_light_on_off": "Google_Nest_Wifi_Router",
+    "com.ringapp_light_on_off": "ring_chime_pro",
+    "com.sensibo.app_ac_on_off": "sensibo_sky_sensor",
+    "com.theswitchbot.switchbot_light_on_off": "switchbot_hub_mini_2",
+    "com.theswitchbot.switchbot_switch_light": "switchbot_hub_mini_1",
+    "com.tplink.iot_on_off": "tapo_plug110_38",
+    "com.cams.vtech.mvb.pro_screenshot": "vtech_baby_camera",
+    "com.tuya.smartlife_on_off": "weeket",
+    "com.withings.wiscale2_change_freq": "Withings_Body_Pressure_Monitor",
+    "com.hualai_screenshot": "wyze_cam_pan_v2",
+    "com.amazon.dee.app_notdisturb_on_off": "echodot5",
+    "com.bose.bosemusic_play_music": "bose_speaker",
+    "com.oceanwing.battery.cam_screenshot": "eufy_doorbell",
+    "com.google.android.apps.chromecast.app_on_off": "tapo_plug110_38",
+
+    "com.ringapp_start_stop_live_doorbell": "ring_doorbell",
+    "com.honeywell.android.lyric_on_off": "Honeywell_T6_Thermostat",
+    "com.amazon.dee.app_notdisturb_on_off_5": "echodot5",
+    "com.etekcity.vesyncplatform_cosori_start_stop": "cosori_air_fryer",
+    "com.netatmo.netatmo_open_forecasts": "netatmo_weather_station",
+
+    "com.google.android.apps.chromecast.app_nest_wifi": "Google_Nest_Wifi_Router",
+    "com.amazon.dee.app_notdisturb_on_off_4": "echodot4"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

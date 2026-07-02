@@ -1,0 +1,240 @@
+{
+    "google": [
+        "iROBOT_roomba",
+        "wyze_cam_pan_v2",
+        "nest_cam",
+        "meross_garage_door",
+        "switchbot_hub_mini_2",
+        "Google_Nest_Wifi_Router",
+        "eufy_robovac",
+        "ring_spotlight_camera",
+        "sensibo_sky_sensor",
+        "google_nest_doorbell",
+        "yeelight_bulb",
+        "aqara_hubM2",
+        "boifun_baby",
+        "switchbot_hub_mini_1",
+        "arlo_camera_pro4",
+        "Withings_Body_Pressure_Monitor",
+        "ring_chime_pro",
+        "vtech_baby_camera",
+        "netatmo_weather_station",
+        "furbo_dog_camera",
+        "blink_mini_camera",
+        "echodot4",
+        "tapo_plug110_38",
+        "govee_strip_light",
+        "echodot5",
+        "reolink_doorbell",
+        "alexa_swan_kettle",
+        "Honeywell_T6_Thermostat",
+        "geree_doorbell",
+        "lepro_light",
+        "petsafe_feeder",
+        "ecovacs_vacuum"
+    ],
+    "aws": [
+        "blink_mini_camera",
+        "iROBOT_roomba",
+        "wyze_cam_pan_v2",
+        "wiz_smart_bulb",
+        "meross_garage_door",
+        "OKP_smart_vacuum",
+        "switchbot_hub_mini_2",
+        "geree_doorbell",
+        "eufy_robovac",
+        "ring_spotlight_camera",
+        "sensibo_sky_sensor",
+        "lepro_light",
+        "ecovacs_vacuum",
+        "yeelight_bulb",
+        "Honeywell_T6_Thermostat",
+        "govee_strip_light",
+        "petsafe_feeder",
+        "echodot5",
+        "alexa_swan_kettle",
+        "tapo_plug110_38",
+        "boifun_baby",
+        "switchbot_hub_mini_1",
+        "arlo_camera_pro4",
+        "ring_chime_pro",
+        "vtech_baby_camera",
+        "furbo_dog_camera",
+        "echodot4",
+        "reolink_doorbell"
+    ],
+    "ibm": [
+        "sensibo_sky_sensor",
+        "blink_mini_camera",
+        "netatmo_weather_station",
+        "arlo_camera_pro4",
+        "switchbot_hub_mini_1",
+        "alexa_swan_kettle",
+        "ring_spotlight_camera",
+        "petsafe_feeder",
+        "vtech_baby_camera",
+        "echodot4",
+        "furbo_dog_camera",
+        "tapo_plug110_38",
+        "lepro_light",
+        "wiz_smart_bulb",
+        "switchbot_hub_mini_2",
+        "govee_strip_light",
+        "google_nest_doorbell",
+        "yeelight_bulb",
+        "nest_cam",
+        "aqara_hubM2",
+        "meross_garage_door",
+        "geree_doorbell",
+        "OKP_smart_vacuum",
+        "echodot5",
+        "eufy_robovac",
+        "Google_Nest_Wifi_Router",
+        "iROBOT_roomba"
+    ],
+    "cloudflare": [
+        "meross_garage_door",
+        "switchbot_hub_mini_2",
+        "ring_spotlight_camera",
+        "switchbot_hub_mini_1",
+        "arlo_camera_pro4",
+        "tapo_plug110_38",
+        "govee_strip_light",
+        "wyze_cam_pan_v2",
+        "Withings_Body_Pressure_Monitor",
+        "reolink_doorbell"
+    ],
+    "akamai": [
+        "iROBOT_roomba",
+        "switchbot_hub_mini_2",
+        "switchbot_hub_mini_1",
+        "vtech_baby_camera",
+        "furbo_dog_camera",
+        "arlo_camera_pro4",
+        "govee_strip_light",
+        "meross_garage_door",
+        "wyze_cam_pan_v2"
+    ],
+    "facebook": [
+        "wiz_smart_bulb",
+        "switchbot_hub_mini_2",
+        "geree_doorbell",
+        "aqara_hubM2",
+        "boifun_baby",
+        "switchbot_hub_mini_1"
+    ],
+    "azure": [
+        "switchbot_hub_mini_2",
+        "ecovacs_vacuum",
+        "Honeywell_T6_Thermostat",
+        "switchbot_hub_mini_1",
+        "netatmo_weather_station",
+        "reolink_doorbell"
+    ],
+    "alibaba": [
+        "OKP_smart_vacuum",
+        "geree_doorbell",
+        "ecovacs_vacuum",
+        "aqara_hubM2",
+        "boifun_baby"
+    ],
+    "tencent": [
+        "OKP_smart_vacuum",
+        "geree_doorbell",
+        "yeelight_bulb",
+        "aqara_hubM2",
+        "boifun_baby"
+    ],
+    "fastly": [
+        "blink_mini_camera",
+        "wyze_cam_pan_v2",
+        "echodot5",
+        "furbo_dog_camera"
+    ],
+    "ovhcloud": [
+        "wyze_cam_pan_v2",
+        "furbo_dog_camera",
+        "iROBOT_roomba",
+        "ring_chime_pro"
+    ],
+    "Jisc Services Limited": [
+        "wyze_cam_pan_v2",
+        "vtech_baby_camera",
+        "furbo_dog_camera",
+        "switchbot_hub_mini_1"
+    ],
+    "Dedicated.com": [
+        "wyze_cam_pan_v2",
+        "vtech_baby_camera"
+    ],
+    "Liquid Web, L.L.C": [
+        "switchbot_hub_mini_2",
+        "switchbot_hub_mini_1"
+    ],
+    "WebNX, Inc.": [
+        "switchbot_hub_mini_2",
+        "switchbot_hub_mini_1"
+    ],
+    "Psychz Networks": [
+        "vtech_baby_camera",
+        "furbo_dog_camera"
+    ],
+    "Electronic Communities Ltd": [
+        "iROBOT_roomba",
+        "furbo_dog_camera"
+    ],
+    "China Mobile communications corporation": [
+        "OKP_smart_vacuum"
+    ],
+    "CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou , Jiangsu Province, P.R.China.": [
+        "eufy_robovac"
+    ],
+    "US National Institute of Standards & Technology": [
+        "google_nest_doorbell"
+    ],
+    "Yahoo-UK Limited": [
+        "govee_strip_light"
+    ],
+    "ACE": [
+        "aqara_hubM2"
+    ],
+    "IX Reach Ltd": [
+        "Withings_Body_Pressure_Monitor"
+    ],
+    "M247 Europe SRL": [
+        "furbo_dog_camera"
+    ],
+    "Andrews & Arnold Ltd": [
+        "furbo_dog_camera"
+    ],
+    "Compuweb Communications Services Limited": [
+        "tapo_plug110_38"
+    ],
+    "Aspire Technology Solutions Ltd": [
+        "meross_garage_door"
+    ],
+    "British Telecommunications PLC": [
+        "ring_chime_pro"
+    ],
+    "Technische Universitat Wien": [
+        "vtech_baby_camera"
+    ],
+    "The Constant Company, LLC": [
+        "iROBOT_roomba"
+    ],
+    "The Positive Internet Company Ltd": [
+        "furbo_dog_camera"
+    ],
+    "1 Click Services Limited": [
+        "tapo_plug110_38"
+    ],
+    "Clouvider": [
+        "govee_strip_light"
+    ],
+    "Network Services Ltd.": [
+        "ring_chime_pro"
+    ],
+    "Incapsula Inc": [
+        "vtech_baby_camera"
+    ]
+}

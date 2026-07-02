@@ -1,0 +1,263 @@
+{
+  "Google_Nest_Wifi_Router": {
+    "app-measurement.com": "GB",
+    "firebaselogging-pa.googleapis.com": "GB",
+    "people-pa.googleapis.com": "GB",
+    "www.google-analytics.com": "GB"
+  },
+  "Honeywell_T6_Thermostat": {
+    "analytics.localytics.com": "US",
+    "api.amplitude.com": "US",
+    "honeywelllyric.helpshift.com": "US",
+    "in.appcenter.ms": "US",
+    "manifest.localytics.com": "US",
+    "profile-api-prod-elb.53.localytics.com": "US",
+    "profile.localytics.com": "US",
+    "regionconfig.amplitude.com": "GB"
+  },
+  "OKP_smart_vacuum": {
+    "alog-default.umeng.com": "CN",
+    "errnewlog.umeng.com": "CN",
+    "ossnt-errlog.umeng.com": "CN",
+    "ulogs.umeng.com": "CN",
+    "utoken.umeng.com": "CN"
+  },
+  "Withings_Body_Pressure_Monitor": {
+    "firebaselogging-pa.googleapis.com": "GB",
+    "prod.rudderstack.withings.net": "FR"
+  },
+  "alexa_swan_kettle": {
+    "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com": "US",
+    "device-metrics-us-2.amazon.com": "US",
+    "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-004.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-005.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-006.us-east-1.prod.service.minerva.devices.a2z.com": "US"
+  },
+  "aqara_hubM2": {
+    "graph.facebook.com": "GB"
+  },
+  "arlo_camera_pro4": {
+    "4422.api.swrve.com": "GB",
+    "4422.content.swrve.com": "GB",
+    "people-pa.googleapis.com": "GB"
+  },
+  "blink_mini_camera": {
+    "sdk.iad-05.braze.com": "US"
+  },
+  "boifun_baby": {
+    "graph.facebook.com": "GB"
+  },
+  "bose_speaker": {
+    "api.segment.io": "US",
+    "cdn-settings.segment.com": "GB",
+    "combine.urbanairship.com": "US",
+    "device-api.urbanairship.com": "US",
+    "graph.facebook.com": "GB",
+    "remote-data.urbanairship.com": "US",
+    "socialize.us1.gigya.com": "GB"
+  },
+  "bose_speaker_v2": {
+    "api.segment.io": "US",
+    "combine.urbanairship.com": "US",
+    "device-api.urbanairship.com": "US",
+    "graph.facebook.com": "GB",
+    "remote-data.urbanairship.com": "US",
+    "socialize.us1.gigya.com": "GB"
+  },
+  "chromecast": {
+    "logs.netflix.com": "IE",
+    "nrdp-ipv6.prod.ftl.netflix.com": "US",
+    "region1.analytics.google.com": "US"
+  },
+  "echodot4": {
+    "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com": "US",
+    "device-metrics-us-2.amazon.com": "US",
+    "msh.amazon.com": "US",
+    "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-004.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-005.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-006.us-east-1.prod.service.minerva.devices.a2z.com": "US"
+  },
+  "echodot5": {
+    "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com": "US",
+    "device-metrics-us-2.amazon.com": "US",
+    "msh.amazon.com": "US",
+    "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-004.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-005.us-east-1.prod.service.minerva.devices.a2z.com": "US",
+    "redacted-minerva-006.us-east-1.prod.service.minerva.devices.a2z.com": "US"
+  },
+  "ecovacs_vacuum": {
+    "codepush.appcenter.ms": "US",
+    "firebaselogging-pa.googleapis.com": "GB"
+  },
+  "eufy_doorbell": {},
+  "eufy_robovac": {
+    "api-d.hiaiabc.com": "CN",
+    "api-p0.yksdks.com": "CN",
+    "api-p4.mobsurl.com": "CN",
+    "api-share.mob.com": "CN",
+    "devs-data.hiaiabc.com": "CN"
+  },
+  "furbo_dog_camera": {
+    "api.getblueshift.com": "US",
+    "api.mixpanel.com": "US",
+    "people-pa.googleapis.com": "GB",
+    "sdk.iad-05.braze.com": "US"
+  },
+  "geree_doorbell": {
+    "graph.facebook.com": "GB"
+  },
+  "google_nest_doorbell": {
+    "app-measurement.com": "GB",
+    "firebaselogging-pa.googleapis.com": "GB",
+    "people-pa.googleapis.com": "GB",
+    "www.google-analytics.com": "GB"
+  },
+  "google_nest_hub": {},
+  "govee_strip_light": {
+    "data.flurry.com": "GB"
+  },
+  "iROBOT_roomba": {
+    "accounts.us1.gigya.com": "GB",
+    "api.mixpanel.com": "US",
+    "app.pendo.io": "US",
+    "data.pendo.io": "US",
+    "firebaselogging-pa.googleapis.com": "GB",
+    "people-pa.googleapis.com": "GB",
+    "socialize.us1.gigya.com": "GB"
+  },
+  "lepro_light": {},
+  "meross_garage_door": {
+    "analytics.webgains.io": "GB",
+    "app-measurement.com": "GB",
+    "currency.conversionbear.com": "US",
+    "googleads4.g.doubleclick.net": "BE",
+    "region1.analytics.google.com": "US",
+    "region1.app-measurement.com": "US",
+    "region1.google-analytics.com": "US",
+    "stats.g.doubleclick.net": "BE",
+    "www.google-analytics.com": "GB",
+    "www.googletagmanager.com": "GB"
+  },
+  "nest_cam": {
+    "firebaselogging-pa.googleapis.com": "GB",
+    "people-pa.googleapis.com": "GB",
+    "www.google-analytics.com": "GB"
+  },
+  "netatmo_weather_station": {
+    "firebaselogging-pa.googleapis.com": "GB",
+    "people-pa.googleapis.com": "GB"
+  },
+  "petsafe_feeder": {
+    "firebaselogging-pa.googleapis.com": "GB"
+  },
+  "reolink_doorbell": {},
+  "ring_chime_pro": {
+    "device-metrics-us-2.amazon.com": "US",
+    "msh.amazon.com": "US"
+  },
+  "ring_chime_pro_v2": {
+    "msh.amazon.com": "US"
+  },
+  "ring_spotlight_camera": {
+    "device-metrics-us-2.amazon.com": "US",
+    "msh.amazon.com": "US"
+  },
+  "sensibo_sky_sensor": {
+    "firebaselogging-pa.googleapis.com": "GB"
+  },
+  "sonos_speaker": {
+    "cdn.optimizely.com": "GB",
+    "combine.urbanairship.com": "US",
+    "delivery-cdn-cf.adswizz.com": "GB",
+    "device-api.urbanairship.com": "US",
+    "msmetrics.ws.sonos.com": "IE",
+    "remote-data.urbanairship.com": "US"
+  },
+  "switchbot_hub_mini_1": {
+    "4cleaning.com": "US",
+    "ade.googlesyndication.com": "GB",
+    "analytics.tiktok.com": "GB",
+    "app-measurement.com": "GB",
+    "cdn.uppromote.com": "GB",
+    "googleads.g.doubleclick.net": "GB",
+    "js.smile.io": "GB",
+    "pagead2.googlesyndication.com": "GB",
+    "platform.smile.io": "GB",
+    "region1.analytics.google.com": "US",
+    "region1.app-measurement.com": "US",
+    "region1.google-analytics.com": "US",
+    "sc-static.net": "GB",
+    "stack-discounts.merchantyard.com": "US",
+    "stats.g.doubleclick.net": "BE",
+    "switchbot.zendesk.com": "US",
+    "trackifyx.redretarget.com": "US",
+    "voilaapps.co": "US",
+    "www.clarity.ms": "US",
+    "www.google-analytics.com": "GB",
+    "www.googletagmanager.com": "GB"
+  },
+  "switchbot_hub_mini_2": {
+    "4cleaning.com": "US",
+    "ade.googlesyndication.com": "GB",
+    "analytics.tiktok.com": "GB",
+    "cdn.uppromote.com": "GB",
+    "googleads.g.doubleclick.net": "GB",
+    "googleads4.g.doubleclick.net": "BE",
+    "js.smile.io": "GB",
+    "pagead2.googlesyndication.com": "GB",
+    "platform.smile.io": "GB",
+    "region1.analytics.google.com": "US",
+    "region1.app-measurement.com": "US",
+    "region1.google-analytics.com": "US",
+    "sc-static.net": "GB",
+    "stack-discounts.merchantyard.com": "US",
+    "stats.g.doubleclick.net": "BE",
+    "switchbot.zendesk.com": "US",
+    "trackifyx.redretarget.com": "US",
+    "voilaapps.co": "US",
+    "www.clarity.ms": "US",
+    "www.google-analytics.com": "GB",
+    "www.googletagmanager.com": "GB"
+  },
+  "tapo_plug110_38": {
+    "4cleaning.com": "US",
+    "ade.googlesyndication.com": "GB",
+    "analytics.tiktok.com": "GB",
+    "cdn.uppromote.com": "GB",
+    "region1.analytics.google.com": "US",
+    "region1.app-measurement.com": "US",
+    "sc-static.net": "GB",
+    "stats.g.doubleclick.net": "BE",
+    "switchbot.zendesk.com": "US",
+    "www.clarity.ms": "US",
+    "www.googletagmanager.com": "GB"
+  },
+  "vtech_baby_camera": {
+    "firebaselogging-pa.googleapis.com": "GB",
+    "people-pa.googleapis.com": "GB"
+  },
+  "weeket": {},
+  "wiz_smart_bulb": {
+    "api.helpshift.com": "US",
+    "graph.facebook.com": "GB"
+  },
+  "wyze_cam_pan_v2": {
+    "api.rudderlabs.com": "GB",
+    "braze-images.com": "US",
+    "dxp.kaxsdc.com": "US",
+    "sdk.iad-03.braze.com": "US",
+    "wyze.dataplane.rudderstack.com": "US"
+  },
+  "yeelight_bulb": {
+    "people-pa.googleapis.com": "GB"
+  }
+}

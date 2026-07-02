@@ -1,0 +1,48 @@
+{
+    "LAN": {
+        "devices": {
+            "sensibo_sky_sensor": 11770,
+            "blink_mini_camera": 11594,
+            "netatmo_weather_station": 12840,
+            "chromecast": 634935,
+            "arlo_camera_pro4": 79622,
+            "ecovacs_vacuum": 11594,
+            "switchbot_hub_mini_1": 12840,
+            "alexa_swan_kettle": 47856,
+            "google_nest_hub": 622501,
+            "ring_spotlight_camera": 12840,
+            "ring_doorbell": 12840,
+            "petsafe_feeder": 25680,
+            "vtech_baby_camera": 447281893,
+            "iROBOT_roomba": 569798,
+            "echodot4": 1402357,
+            "boifun_baby": 82781986,
+            "furbo_dog_camera": 736117493,
+            "eufy_robovac": 92592,
+            "tapo_plug110_38": 1223752,
+            "lepro_light": 99463,
+            "sonos_speaker": 3326577,
+            "wyze_cam_pan_v2": 977023630,
+            "wiz_smart_bulb": 235990,
+            "bose_speaker": 1731430,
+            "switchbot_hub_mini_2": 12840,
+            "govee_strip_light": 10700,
+            "nanoleaf_triangles": 117986,
+            "google_nest_doorbell": 2694848,
+            "yeelight_bulb": 59930,
+            "nest_cam": 15070,
+            "aqara_hubM2": 12648,
+            "meross_garage_door": 63696,
+            "geree_doorbell": 60940149,
+            "OKP_smart_vacuum": 198339,
+            "ring_chime_pro": 16080,
+            "echodot5": 1425732,
+            "reolink_doorbell": 171910559
+        },
+        "apps": {}
+    },
+    "WAN": {
+        "devices": {},
+        "apps": {}
+    }
+}

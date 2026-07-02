@@ -1,0 +1,140 @@
+{
+  "Honeywell_T6_Thermostat": [],
+  "OKP_smart_vacuum": [],
+  "Withings_Body_Pressure_Monitor": [],
+  "alexa_swan_kettle": [],
+  "aqara_hubM2": [],
+  "arlo_camera_pro4": [
+    "livestream-z1-prod.arlo.com",
+    "arlolastimage-z1.arlo.com"
+  ],
+  "blink_mini_camera": [
+    "18.185.138.187",
+    "3.68.67.185",
+    "18.198.209.147",
+    "3.67.83.90",
+    "18.192.124.150",
+    "3.120.250.157",
+    "3.77.202.87",
+    "54.93.172.223",
+    "35.158.134.254",
+    "3.70.168.133",
+    "18.198.48.62"
+  ],
+  "boifun_baby": [],
+  "echodot4": [
+    "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com",
+    "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com",
+    "bob-dispatch-prod-eu.amazon.com",
+    "api.eu.amazonalexa.com",
+    "device-metrics-us-2.amazon.com"
+  ],
+  "echodot5": [
+    "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com",
+    "bob-dispatch-prod-eu.amazon.com",
+    "api.amazonalexa.com",
+    "api.eu.amazonalexa.com",
+    "avs-alexa-14-eu.amazon.com",
+    "device-metrics-us-2.amazon.com"
+  ],
+  "ecovacs_vacuum": [
+    "jmq-ngiot-eu.dc.robotww.ecouser.net",
+    "jmq-ngiot-uk.area.ww.ecouser.net"
+  ],
+  "eufy_robovac": [],
+  "furbo_dog_camera": [
+    "product.furbo.co",
+    "europe-london-uk.n0.iotcplatform.com",
+    "217.138.206.254",
+    "108.181.62.203"
+  ],
+  "geree_doorbell": [
+    "turnsvruk12.mearicloud.com",
+    "turnsvreu12.mearicloud.com",
+    "turnsvreu18.mearicloud.com",
+    "turnsvruk11.mearicloud.com",
+    "turnsvreu9.mearicloud.com",
+    "turnsvreu8.mearicloud.com",
+    "turnsvreu23.mearicloud.com",
+    "turnsvreu25.mearicloud.com",
+    "euce.mearicloud.com",
+    "turnsvreu5.mearicloud.com",
+    "turnsvreu26.mearicloud.com",
+    "turnsvreu22.mearicloud.com",
+    "turnsvruk5.mearicloud.com",
+    "turnsvruk9.mearicloud.com",
+    "turnsvreu13.mearicloud.com",
+    "turnsvreu27.mearicloud.com",
+    "turnsvreu10.mearicloud.com",
+    "turnsvreu16.mearicloud.com",
+    "turnsvreu14.mearicloud.com",
+    "turnsvreu4.mearicloud.com",
+    "turnsvreu15.mearicloud.com",
+    "turnsvreu17.mearicloud.com",
+    "turnsvruk6.mearicloud.com",
+    "turnsvreu21.mearicloud.com",
+    "apis-eu-frankfurt.cloudedge360.com",
+    "turnsvruk7.mearicloud.com",
+    "turnsvreu20.mearicloud.com",
+    "turnsvreu24.mearicloud.com",
+    "turnsvruk13.mearicloud.com",
+    "turnsvreu6.mearicloud.com",
+    "turnsvreu19.mearicloud.com",
+    "turnsvruk3.mearicloud.com",
+    "turnsvruk10.mearicloud.com",
+    "turnsvruk8.mearicloud.com"
+  ],
+  "google_nest_doorbell": [
+    "firebaseremoteconfig.googleapis.com",
+    "nest-camera-frontend.googleapis.com",
+    "time.google.com",
+    "nest-camera-media.googleapis.com",
+    "www.google-analytics.com",
+    "www.youtube.com",
+    "content-autofill.googleapis.com",
+    "firebaseremoteconfigrealtime.googleapis.com",
+    "clients3.google.com",
+    "encrypted-tbn0.gstatic.com"
+  ],
+  "govee_strip_light": [],
+  "iROBOT_roomba": [
+    "10.12.0.21"
+  ],
+  "lepro_light": [],
+  "meross_garage_door": [
+    "10.13.0.12",
+    "mqtt-us-2.meross.com"
+  ],
+  "nest_cam": [
+    "ajax.googleapis.com",
+    "nest-camera-frontend.googleapis.com",
+    "time.google.com",
+    "www.youtube.com",
+    "clients3.google.com"
+  ],
+  "netatmo_weather_station": [],
+  "petsafe_feeder": [],
+  "reolink_doorbell": [],
+  "ring_chime_pro": [],
+  "ring_spotlight_camera": [
+    "18.202.102.39",
+    "18.202.193.144"
+  ],
+  "sensibo_sky_sensor": [],
+  "switchbot_hub_mini_1": [],
+  "switchbot_hub_mini_2": [],
+  "tapo_plug110_38": [],
+  "vtech_baby_camera": [
+    "199.60.101.170",
+    "108.181.23.233"
+  ],
+  "wiz_smart_bulb": [],
+  "wyze_cam_pan_v2": [
+    "192.95.33.195",
+    "167.160.90.34",
+    "216.52.183.162",
+    "api.wyzecam.com",
+    "rest.cache.cell-2-us-west-2-1.prod.a.momentohq.com"
+  ],
+  "yeelight_bulb": []
+}

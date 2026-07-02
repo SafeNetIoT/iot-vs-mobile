@@ -1,0 +1,294 @@
+{
+  "Google_Nest_Wifi_Router": {
+    "number": 4,
+    "tracking_endpoints": [
+      "app-measurement.com",
+      "people-pa.googleapis.com",
+      "www.google-analytics.com",
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "Honeywell_T6_Thermostat": {
+    "number": 7,
+    "tracking_endpoints": [
+      "regionconfig.amplitude.com",
+      "api.amplitude.com",
+      "analytics.localytics.com",
+      "profile.localytics.com",
+      "manifest.localytics.com",
+      "in.appcenter.ms",
+      "honeywelllyric.helpshift.com"
+    ]
+  },
+  "OKP_smart_vacuum": {
+    "number": 3,
+    "tracking_endpoints": [
+      "ulogs.umeng.com",
+      "errnewlog.umeng.com",
+      "utoken.umeng.com"
+    ]
+  },
+  "Withings_Body_Pressure_Monitor": {
+    "number": 2,
+    "tracking_endpoints": [
+      "prod.rudderstack.withings.net",
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "alexa_swan_kettle": {
+    "number": 8,
+    "tracking_endpoints": [
+      "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com",
+      "device-metrics-us-2.amazon.com",
+      "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com",
+      "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com",
+      "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-004.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-006.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-005.us-east-1.prod.service.minerva.devices.a2z.com"
+    ]
+  },
+  "aqara_hubM2": {
+    "number": 1,
+    "tracking_endpoints": [
+      "graph.facebook.com"
+    ]
+  },
+  "arlo_camera_pro4": {
+    "number": 3,
+    "tracking_endpoints": [
+      "4422.api.swrve.com",
+      "4422.content.swrve.com",
+      "people-pa.googleapis.com"
+    ]
+  },
+  "blink_mini_camera": {
+    "number": 1,
+    "tracking_endpoints": [
+      "sdk.iad-05.braze.com"
+    ]
+  },
+  "boifun_baby": {
+    "number": 1,
+    "tracking_endpoints": [
+      "graph.facebook.com"
+    ]
+  },
+  "echodot4": {
+    "number": 8,
+    "tracking_endpoints": [
+      "redacted-minerva-004.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com",
+      "device-metrics-us-2.amazon.com",
+      "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com",
+      "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-005.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-006.us-east-1.prod.service.minerva.devices.a2z.com"
+    ]
+  },
+  "echodot5": {
+    "number": 8,
+    "tracking_endpoints": [
+      "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com",
+      "device-metrics-us-2.amazon.com",
+      "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com",
+      "alexa-mobile-analytics-configuration-prod.s3.amazonaws.com",
+      "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-004.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-005.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-006.us-east-1.prod.service.minerva.devices.a2z.com"
+    ]
+  },
+  "ecovacs_vacuum": {
+    "number": 2,
+    "tracking_endpoints": [
+      "codepush.appcenter.ms",
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "eufy_robovac": {
+    "number": 1,
+    "tracking_endpoints": [
+      "devs-data.hiaiabc.com"
+    ]
+  },
+  "furbo_dog_camera": {
+    "number": 4,
+    "tracking_endpoints": [
+      "api.getblueshift.com",
+      "api.mixpanel.com",
+      "sdk.iad-05.braze.com",
+      "people-pa.googleapis.com"
+    ]
+  },
+  "geree_doorbell": {
+    "number": 1,
+    "tracking_endpoints": [
+      "graph.facebook.com"
+    ]
+  },
+  "google_nest_doorbell": {
+    "number": 4,
+    "tracking_endpoints": [
+      "app-measurement.com",
+      "www.google-analytics.com",
+      "people-pa.googleapis.com",
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "govee_strip_light": {
+    "number": 1,
+    "tracking_endpoints": [
+      "data.flurry.com"
+    ]
+  },
+  "iROBOT_roomba": {
+    "number": 6,
+    "tracking_endpoints": [
+      "accounts.us1.gigya.com",
+      "data.pendo.io",
+      "api.mixpanel.com",
+      "app.pendo.io",
+      "people-pa.googleapis.com",
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "lepro_light": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "meross_garage_door": {
+    "number": 8,
+    "tracking_endpoints": [
+      "currency.conversionbear.com",
+      "stats.g.doubleclick.net",
+      "app-measurement.com",
+      "www.googletagmanager.com",
+      "region1.google-analytics.com",
+      "region1.app-measurement.com",
+      "analytics.webgains.io",
+      "www.google-analytics.com"
+    ]
+  },
+  "nest_cam": {
+    "number": 3,
+    "tracking_endpoints": [
+      "www.google-analytics.com",
+      "people-pa.googleapis.com",
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "netatmo_weather_station": {
+    "number": 2,
+    "tracking_endpoints": [
+      "firebaselogging-pa.googleapis.com",
+      "people-pa.googleapis.com"
+    ]
+  },
+  "petsafe_feeder": {
+    "number": 1,
+    "tracking_endpoints": [
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "reolink_doorbell": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "ring_chime_pro": {
+    "number": 2,
+    "tracking_endpoints": [
+      "msh.amazon.com",
+      "device-metrics-us-2.amazon.com"
+    ]
+  },
+  "ring_spotlight_camera": {
+    "number": 2,
+    "tracking_endpoints": [
+      "msh.amazon.com",
+      "device-metrics-us-2.amazon.com"
+    ]
+  },
+  "sensibo_sky_sensor": {
+    "number": 1,
+    "tracking_endpoints": [
+      "firebaselogging-pa.googleapis.com"
+    ]
+  },
+  "switchbot_hub_mini_1": {
+    "number": 16,
+    "tracking_endpoints": [
+      "js.smile.io",
+      "stack-discounts.merchantyard.com",
+      "trackifyx.redretarget.com",
+      "app-measurement.com",
+      "www.googletagmanager.com",
+      "voilaapps.co",
+      "stats.g.doubleclick.net",
+      "analytics.tiktok.com",
+      "sc-static.net",
+      "region1.google-analytics.com",
+      "cdn.uppromote.com",
+      "googleads.g.doubleclick.net",
+      "platform.smile.io",
+      "www.google-analytics.com",
+      "region1.app-measurement.com",
+      "switchbot.zendesk.com"
+    ]
+  },
+  "switchbot_hub_mini_2": {
+    "number": 15,
+    "tracking_endpoints": [
+      "trackifyx.redretarget.com",
+      "js.smile.io",
+      "voilaapps.co",
+      "stats.g.doubleclick.net",
+      "sc-static.net",
+      "analytics.tiktok.com",
+      "region1.app-measurement.com",
+      "stack-discounts.merchantyard.com",
+      "cdn.uppromote.com",
+      "googleads.g.doubleclick.net",
+      "platform.smile.io",
+      "region1.google-analytics.com",
+      "www.google-analytics.com",
+      "www.googletagmanager.com",
+      "switchbot.zendesk.com"
+    ]
+  },
+  "tapo_plug110_38": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "vtech_baby_camera": {
+    "number": 2,
+    "tracking_endpoints": [
+      "firebaselogging-pa.googleapis.com",
+      "people-pa.googleapis.com"
+    ]
+  },
+  "wiz_smart_bulb": {
+    "number": 2,
+    "tracking_endpoints": [
+      "graph.facebook.com",
+      "api.helpshift.com"
+    ]
+  },
+  "wyze_cam_pan_v2": {
+    "number": 5,
+    "tracking_endpoints": [
+      "dxp.kaxsdc.com",
+      "wyze.dataplane.rudderstack.com",
+      "sdk.iad-03.braze.com",
+      "api.rudderlabs.com",
+      "braze-images.com"
+    ]
+  },
+  "yeelight_bulb": {
+    "number": 1,
+    "tracking_endpoints": [
+      "people-pa.googleapis.com"
+    ]
+  }
+}

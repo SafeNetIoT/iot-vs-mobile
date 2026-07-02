@@ -1,0 +1,143 @@
+{
+  "Honeywell_T6_Thermostat": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "OKP_smart_vacuum": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "Withings_Body_Pressure_Monitor": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "alexa_swan_kettle": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "aqara_hubM2": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "arlo_camera_pro4": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "blink_mini_camera": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "boifun_baby": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "echodot4": {
+    "number": 3,
+    "tracking_endpoints": [
+      "device-metrics-us-2.amazon.com",
+      "redacted-minerva-002.us-east-1.prod.service.minerva.devices.a2z.com",
+      "redacted-minerva-001.us-east-1.prod.service.minerva.devices.a2z.com"
+    ]
+  },
+  "echodot5": {
+    "number": 2,
+    "tracking_endpoints": [
+      "device-metrics-us-2.amazon.com",
+      "redacted-minerva-003.us-east-1.prod.service.minerva.devices.a2z.com"
+    ]
+  },
+  "ecovacs_vacuum": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "eufy_robovac": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "furbo_dog_camera": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "geree_doorbell": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "google_nest_doorbell": {
+    "number": 1,
+    "tracking_endpoints": [
+      "www.google-analytics.com"
+    ]
+  },
+  "govee_strip_light": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "iROBOT_roomba": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "lepro_light": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "meross_garage_door": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "nest_cam": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "netatmo_weather_station": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "petsafe_feeder": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "reolink_doorbell": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "ring_chime_pro": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "ring_spotlight_camera": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "sensibo_sky_sensor": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "switchbot_hub_mini_1": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "switchbot_hub_mini_2": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "tapo_plug110_38": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "vtech_baby_camera": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "wiz_smart_bulb": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "wyze_cam_pan_v2": {
+    "number": 0,
+    "tracking_endpoints": []
+  },
+  "yeelight_bulb": {
+    "number": 0,
+    "tracking_endpoints": []
+  }
+}

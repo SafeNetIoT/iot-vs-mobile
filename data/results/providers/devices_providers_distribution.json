@@ -1,0 +1,157 @@
+{
+    "aws": [
+        "sensibo_sky_sensor",
+        "blink_mini_camera",
+        "arlo_camera_pro4",
+        "ecovacs_vacuum",
+        "switchbot_hub_mini_1",
+        "alexa_swan_kettle",
+        "ring_spotlight_camera",
+        "petsafe_feeder",
+        "vtech_baby_camera",
+        "iROBOT_roomba",
+        "echodot4",
+        "boifun_baby",
+        "furbo_dog_camera",
+        "tapo_plug110_38",
+        "lepro_light",
+        "wyze_cam_pan_v2",
+        "wiz_smart_bulb",
+        "switchbot_hub_mini_2",
+        "govee_strip_light",
+        "yeelight_bulb",
+        "meross_garage_door",
+        "geree_doorbell",
+        "OKP_smart_vacuum",
+        "ring_chime_pro",
+        "echodot5",
+        "eufy_robovac"
+    ],
+    "ibm": [
+        "sensibo_sky_sensor",
+        "blink_mini_camera",
+        "netatmo_weather_station",
+        "arlo_camera_pro4",
+        "switchbot_hub_mini_1",
+        "alexa_swan_kettle",
+        "ring_spotlight_camera",
+        "petsafe_feeder",
+        "vtech_baby_camera",
+        "echodot4",
+        "furbo_dog_camera",
+        "tapo_plug110_38",
+        "lepro_light",
+        "wiz_smart_bulb",
+        "switchbot_hub_mini_2",
+        "govee_strip_light",
+        "google_nest_doorbell",
+        "yeelight_bulb",
+        "nest_cam",
+        "aqara_hubM2",
+        "meross_garage_door",
+        "geree_doorbell",
+        "OKP_smart_vacuum",
+        "echodot5",
+        "eufy_robovac"
+    ],
+    "google": [
+        "blink_mini_camera",
+        "arlo_camera_pro4",
+        "vtech_baby_camera",
+        "iROBOT_roomba",
+        "echodot4",
+        "furbo_dog_camera",
+        "tapo_plug110_38",
+        "wyze_cam_pan_v2",
+        "switchbot_hub_mini_2",
+        "govee_strip_light",
+        "google_nest_doorbell",
+        "nest_cam",
+        "meross_garage_door",
+        "echodot5",
+        "reolink_doorbell",
+        "switchbot_hub_mini_1",
+        "alexa_swan_kettle",
+        "Honeywell_T6_Thermostat",
+        "geree_doorbell",
+        "ring_chime_pro"
+    ],
+    "cloudflare": [
+        "arlo_camera_pro4",
+        "tapo_plug110_38",
+        "govee_strip_light",
+        "meross_garage_door",
+        "ring_spotlight_camera"
+    ],
+    "akamai": [
+        "arlo_camera_pro4",
+        "iROBOT_roomba",
+        "govee_strip_light",
+        "meross_garage_door"
+    ],
+    "ovhcloud": [
+        "furbo_dog_camera",
+        "wyze_cam_pan_v2",
+        "iROBOT_roomba",
+        "ring_chime_pro"
+    ],
+    "Jisc Services Limited": [
+        "switchbot_hub_mini_1",
+        "vtech_baby_camera",
+        "furbo_dog_camera",
+        "wyze_cam_pan_v2"
+    ],
+    "azure": [
+        "netatmo_weather_station",
+        "Honeywell_T6_Thermostat",
+        "reolink_doorbell"
+    ],
+    "Dedicated.com": [
+        "vtech_baby_camera",
+        "wyze_cam_pan_v2"
+    ],
+    "Psychz Networks": [
+        "vtech_baby_camera",
+        "furbo_dog_camera"
+    ],
+    "Electronic Communities Ltd": [
+        "iROBOT_roomba",
+        "furbo_dog_camera"
+    ],
+    "M247 Europe SRL": [
+        "furbo_dog_camera"
+    ],
+    "Andrews & Arnold Ltd": [
+        "furbo_dog_camera"
+    ],
+    "Compuweb Communications Services Limited": [
+        "tapo_plug110_38"
+    ],
+    "tencent": [
+        "aqara_hubM2"
+    ],
+    "Aspire Technology Solutions Ltd": [
+        "meross_garage_door"
+    ],
+    "British Telecommunications PLC": [
+        "ring_chime_pro"
+    ],
+    "Technische Universitat Wien": [
+        "vtech_baby_camera"
+    ],
+    "The Constant Company, LLC": [
+        "iROBOT_roomba"
+    ],
+    "The Positive Internet Company Ltd": [
+        "furbo_dog_camera"
+    ],
+    "1 Click Services Limited": [
+        "tapo_plug110_38"
+    ],
+    "Clouvider": [
+        "govee_strip_light"
+    ],
+    "Network Services Ltd.": [
+        "ring_chime_pro"
+    ]
+}
